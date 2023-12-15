@@ -63,6 +63,7 @@ Here is the link for official doc of all language
 ---
 
 ### Hosting on Github
+
 ![sc](https://github.com/myselfshravan/portfolio-project/assets/94772842/ad5b9945-15d7-4cf0-ba3b-797692c5b476)
 
 ### Google and Learn
@@ -90,7 +91,7 @@ Keep exploring yourself, you will definitely learn more than what you want to
 - [Web Gradient](https://webgradients.com/)
 - [CSS Box Shadow](https://getcssscan.com/css-box-shadow-examples)
 - [Other Amazing tools](https://link.medium.com/X1hPLMGXFrb)
--
+- [Tailwind CSS](https://tailwindcss.com)
 
 ---
 
